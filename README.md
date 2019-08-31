@@ -76,7 +76,7 @@ A move is a triple: `type` `x` `y`.
 The board is an n x n board.
 The top-left corner point is the origin.
 The horizontal direction towards the right is the positive x-axis.
-The vertical direction towards up is the positive y-axis.
+The vertical direction towards down is the positive y-axis.
 
 #### Moving a Soldier
 To move a soldier from (1, 2) to (2, 4)
